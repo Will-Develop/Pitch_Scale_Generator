@@ -8,7 +8,9 @@
     - Version: 1.0
   
   DESCRIPTION:
-    This script generates a pitch scale.
+    
+    This script allows you to generate a scale
+    from the lowest note to the highest note.
     
     INTRODUCTION:
       
