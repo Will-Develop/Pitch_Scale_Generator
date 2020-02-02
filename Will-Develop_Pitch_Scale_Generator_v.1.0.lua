@@ -4,6 +4,7 @@
     - Author: Will Develop 
     - Website: https://www.will-records.tk
     - Repository URI: https://github.com/Will-Develop/Pitch_Scale_Generator.git
+	- Forum: https://forum.cockos.com/showthread.php?p=2239383#post2239383
     - REAPER: 6.02
     - Version: 1.0
   
