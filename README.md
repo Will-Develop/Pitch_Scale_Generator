@@ -3,4 +3,4 @@ This script allows you to generate a scale from the lowest note to the highest n
 
 - Author: Will Develop 
 - Website: https://www.will-records.tk
-- E-Mail: will-records@gmx.de
+- E-Mail: will-develop@gmx.de
