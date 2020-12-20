@@ -5,5 +5,5 @@ This script allows you to generate a scale from the lowest note to the highest n
 - Download: https://stash.reaper.fm/v/38202/Will-Develop_Pitch_Scale_Generator_v.1.0.lua
 
 - Author: Will Develop 
-- Website: https://www.will-records.tk
+- Website: https://www.willrecords.tk
 - E-Mail: will-develop@gmx.de
